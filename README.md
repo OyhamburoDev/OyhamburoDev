@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Ramiro Oyhamburo!
 
-<!--
-**OyhamburoDev/OyhamburoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **Mobile Developer** focused on React Native and React JS.  
+🔧 Experienced in **HTML**, **SCSS**, **Bootstrap**, and **JavaScript**.  
+🚀 Constantly learning and improving my skills in **web** and **mobile development**.
 
-Here are some ideas to get you started:
+## 🌱 Currently learning:
+- 📱 **React Native**  
+- 🌐 **Full Stack Development**  
+- 🛠️ New tools and frameworks to keep up with the latest in tech!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me:
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ramiro-oyhamburo-30b802342/)
+- 📧 [Email](oyhamburoramiro@gmail.com)
+
+---
+
+Feel free to check out my repositories! 👇  
