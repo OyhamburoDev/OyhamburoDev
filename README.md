@@ -4,16 +4,15 @@
 
 **_About me_**
 
-I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
+👨‍💻 I’m a mobile developer with experience in **React Native** and **TypeScript**.  
+💻 I’ve built a solid foundation in web and mobile development, starting from **HTML and CSS**, all the way to creating full-featured applications with database integration.  
+📱 I’ve developed mobile applications with a focus on healthcare and other functionalities, using technologies like React Native, Firebase, and SQLite.  
+📍 I’m currently working on a new app that integrates camera, location, and real-time features.  
+🚀 I enjoy continuous learning and exploring new tools and technologies.  
 
-- 🌱 I’m currently learning ...
-  - Nest.js
-  - Angular
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 💜I love streaming on twitch, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
-- 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
-- 📫 Reach out to me at: <a href="valenwerlecontacto@gmail.com">valenwerlecontacto@gmail.com</a>
+- ✔ Feel free to ask me anything — I’ll be happy to help if I can.  
+- 🧠 Outside of tech, I enjoy music, nature, and personal growth.  
+- 📫 Contact me at: [oyhamburoramiro@gmail.com](mailto:oyhamburoramiro@gmail.com)
 
 ## My Skills Include
 
@@ -42,21 +41,4 @@ I am a computer engineering student, currently halfway through my degree. I am e
   
 </span>
 
-👨‍💻 **Mobile Developer** focused on React Native and React JS.  
-🔧 Experienced in **HTML**, **SCSS**, **Bootstrap**, and **JavaScript**.  
-🚀 Constantly learning and improving my skills in **web** and **mobile development**.
 
-## 🌱 Currently learning:
-
-- 📱 **React Native**
-- 🌐 **Full Stack Development**
-- 🛠️ New tools and frameworks to keep up with the latest in tech!
-
-## 📫 How to reach me:
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ramiro-oyhamburo-30b802342/)
-- 📧 [Email](oyhamburoramiro@gmail.com)
-
----
-
-Feel free to check out my repositories! 👇
