@@ -43,23 +43,39 @@
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">ProDiaba</h3>
-      <div align="center">
-        <a href="https://github.com/OyhamburoDev/ProDiaba" target="_blank">
-          <img src="./assets/prodiaba.png" width="300" alt="ProDiaba App" />
-        </a>
-        <p>
-          <a href="https://github.com/OyhamburoDev/ProDiaba" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-GITHUB-black?style=for-the-badge&logo=github" />
-          </a>
-        </p>
-        <p>Mobile app for healthcare tracking (glucose records). Built with React Native, Firebase and SQLite.</p>
-      </div>
-    </td>
+<br/>
 
-  </tr>
+<table>
+<tr>
+  <td width="50%">
+    <h3 align="center">ProDiaba</h3>
+    <div align="center">
+      <a href="https://github.com/OyhamburoDev/ProDiaba" target="_blank">
+        <img src="./assets/readme-prodiaba.png" width="300" alt="ProDiaba App" />
+      </a>
+      <p>
+        <a href="https://github.com/OyhamburoDev/ProDiaba" target="_blank">
+          <img src="https://img.shields.io/badge/CÓDIGO-GITHUB-black?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+      <p>Mobile app for healthcare tracking (glucose records). Built with React Native, Firebase and SQLite.</p>
+    </div>
+  </td>
+
+  <td width="50%">
+    <h3 align="center">GeoTrack</h3>
+    <div align="center">
+      <a href="https://github.com/OyhamburoDev/GeoTrack" target="_blank">
+        <img src="./assets/readme-geotrack.png" width="300" alt="GeoTrack App" />
+      </a>
+      <p>
+        <a href="https://github.com/OyhamburoDev/GeoTrack" target="_blank">
+          <img src="https://img.shields.io/badge/CÓDIGO-GITHUB-black?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+      <p>App that uses camera, location, and maps to track and register places. Built with Expo and Firebase.</p>
+    </div>
+  </td>
+</tr>
 </table>
 
