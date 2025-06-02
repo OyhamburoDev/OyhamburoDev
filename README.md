@@ -60,20 +60,6 @@
       </div>
     </td>
 
-    <td width="50%">
-      <h3 align="center">[Nombre de tu segunda app]</h3>
-      <div align="center">
-        <a href="[LINK_GITHUB_O_DEMO]" target="_blank">
-          <img src="./assets/segunda-app.png" width="300" alt="Segunda App" />
-        </a>
-        <p>
-          <a href="[LINK_GITHUB_O_DEMO]" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-GITHUB-black?style=for-the-badge&logo=github" />
-          </a>
-        </p>
-        <p>Short description of what the app does. Example: Real-time location and camera-based mobile app.</p>
-      </div>
-    </td>
   </tr>
 </table>
 
