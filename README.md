@@ -1,10 +1,11 @@
 <h1 align="center"><b>Hi , I'm Ramiro Oyhamburo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<img align="right" width=300px alt="Unicorn" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58">
+<img align="right" width=300px alt="Mobile Developer" src="./assets/mobile-dev.png">
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_About me_**
 
 I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
+
 - 🌱 I’m currently learning ...
   - Nest.js
   - Angular
@@ -22,18 +23,15 @@ I am a computer engineering student, currently halfway through my degree. I am e
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-  
 
-  
+
 </span>
-
 
 <h4> Librerías y Frameworks </h4>
 <span> 
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 
-  
 </span>
 
 <h4> Backend y bases de datos </h4>
@@ -44,21 +42,21 @@ I am a computer engineering student, currently halfway through my degree. I am e
   
 </span>
 
-
-
 👨‍💻 **Mobile Developer** focused on React Native and React JS.  
 🔧 Experienced in **HTML**, **SCSS**, **Bootstrap**, and **JavaScript**.  
 🚀 Constantly learning and improving my skills in **web** and **mobile development**.
 
 ## 🌱 Currently learning:
-- 📱 **React Native**  
-- 🌐 **Full Stack Development**  
+
+- 📱 **React Native**
+- 🌐 **Full Stack Development**
 - 🛠️ New tools and frameworks to keep up with the latest in tech!
 
 ## 📫 How to reach me:
+
 - 🌐 [LinkedIn](https://www.linkedin.com/in/ramiro-oyhamburo-30b802342/)
 - 📧 [Email](oyhamburoramiro@gmail.com)
 
 ---
 
-Feel free to check out my repositories! 👇  
+Feel free to check out my repositories! 👇
