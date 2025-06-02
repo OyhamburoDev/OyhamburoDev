@@ -51,7 +51,7 @@
     <h3 align="center">ProDiaba</h3>
     <div align="center">
       <a href="https://github.com/OyhamburoDev/ProDiaba" target="_blank">
-        <img src="./assets/readme-prodiaba.png" width="500" height="200" alt="ProDiaba App" />
+        <img src="./assets/readme-prodiaba.png" width="500" alt="ProDiaba App" />
       </a><br/>
       <a href="https://github.com/OyhamburoDev/ProDiaba" target="_blank">
         <img src="https://img.shields.io/badge/Ver%20código-2c3e50?style=for-the-badge&logo=github&logoColor=white" />
