@@ -66,24 +66,46 @@
       </a>
     </div>
     <p align="justify">
-      Aplicación web full-stack tipo Slack con mensajería en tiempo real usando WebSockets (Socket.io), gestión de workspaces, canales, roles y permisos.  
-      Incluye editor de texto enriquecido, búsqueda global y arquitectura escalable frontend + backend.
+      Aplicación web full-stack tipo Slack con mensajería en tiempo real usando WebSockets (Socket.io), gestión de workspaces, canales, roles y permisos.
+      Incluye editor de texto enriquecido, búsqueda global y arquitectura frontend + backend escalable.
     </p>
   </td>
 
-  <td width="50%" valign="top">
-    <!-- Reservado para app React Native -->
-  </td>
+  <td width="50%" valign="top"></td>
 </tr>
 
 <!-- FILA 2 -->
 <tr>
   <td width="50%" valign="top">
-    <!-- ProDiaba (tal cual lo tenías) -->
+    <h3 align="center">ProDiaba</h3>
+    <div align="center">
+      <a href="https://github.com/OyhamburoDev/ProDiaba" target="_blank">
+        <img src="./assets/readme-prodiaba.png" width="500" alt="ProDiaba App" />
+      </a><br/><br/>
+      <a href="https://github.com/OyhamburoDev/ProDiaba" target="_blank">
+        <img src="https://img.shields.io/badge/Ver%20código-2c3e50?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </div>
+    <p align="justify">
+      Aplicación móvil desarrollada con React Native + Expo para el seguimiento de niveles de glucemia.
+      Permite registrar valores, comentarios, historial por fechas y perfil personalizado.
+    </p>
   </td>
 
   <td width="50%" valign="top">
-    <!-- Cookies Premium (tal cual lo tenías) -->
+    <h3 align="center">Cookies Premium</h3>
+    <div align="center">
+      <a href="https://cookies-premium.vercel.app/" target="_blank">
+        <img src="./assets/gif-redme.gif" width="500" alt="Cookies Premium App" />
+      </a><br/><br/>
+      <a href="https://github.com/OyhamburoDev/ProyectoFinalOyhamburo" target="_blank">
+        <img src="https://img.shields.io/badge/Ver%20código-2c3e50?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </div>
+    <p align="justify">
+      E-commerce de galletas premium desarrollado con React.js y Firebase.
+      Incluye autenticación, carrito de compras, órdenes en Firestore y UI con Material UI.
+    </p>
   </td>
 </tr>
 
