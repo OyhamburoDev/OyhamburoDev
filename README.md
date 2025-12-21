@@ -46,38 +46,46 @@
 <br/>
 
 <table width="100%">
+
+<!-- FILA 1 -->
 <tr>
   <td width="50%" valign="top">
-    <h3 align="center">ProDiaba</h3>
+    <h3 align="center">Slack Clone</h3>
     <div align="center">
-      <a href="https://github.com/OyhamburoDev/ProDiaba" target="_blank">
-        <img src="./assets/readme-prodiaba.png" width="500" alt="ProDiaba App" />
-      </a><br/>
-      <a href="https://github.com/OyhamburoDev/ProDiaba" target="_blank">
-        <img src="https://img.shields.io/badge/Ver%20código-2c3e50?style=for-the-badge&logo=github&logoColor=white" />
+      <a href="https://slackapp-utn.vercel.app" target="_blank">
+        <img src="./assets/slack-clone-demo.gif" width="500" alt="Slack Clone Demo" />
+      </a><br/><br/>
+      <a href="https://slackapp-utn.vercel.app" target="_blank">
+        <img src="https://img.shields.io/badge/Ver%20demo-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+      </a>
+      <a href="https://github.com/OyhamburoDev/slack-clone-frontend" target="_blank">
+        <img src="https://img.shields.io/badge/Frontend-2c3e50?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="https://github.com/OyhamburoDev/slack-clone-backend" target="_blank">
+        <img src="https://img.shields.io/badge/Backend-2c3e50?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </div>
     <p align="justify">
-      ProDiaba es una aplicación móvil desarrollada con React Native + Expo, orientada a personas con diabetes tipo 1 o tipo 2 que necesitan registrar y hacer seguimiento de sus niveles de glucemia.  
-      La app permite ingresar valores glucémicos, agregar comentarios, visualizar el historial por fechas y gestionar un perfil personalizado.
+      Aplicación web full-stack tipo Slack con mensajería en tiempo real usando WebSockets (Socket.io), gestión de workspaces, canales, roles y permisos.  
+      Incluye editor de texto enriquecido, búsqueda global y arquitectura escalable frontend + backend.
     </p>
   </td>
 
   <td width="50%" valign="top">
-    <h3 align="center">Cookies Premium</h3>
-    <div align="center">
-      <a href="https://cookies-premium.vercel.app/" target="_blank">
-        <img src="./assets/gif-redme.gif" width="500" alt="Cookies Premium App" />
-      </a><br/>
-      <a href="https://github.com/OyhamburoDev/ProyectoFinalOyhamburo" target="_blank">
-        <img src="https://img.shields.io/badge/Ver%20código-2c3e50?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </div>
-    <p align="justify">
-      E-commerce de galletas premium desarrollado con React.js y Firebase. Los usuarios pueden explorar productos, registrarse, agregar al carrito, y generar órdenes de compra guardadas en Firestore.  
-      Incluye autenticación, UI con Material UI, y notificaciones con React Toastify.
-    </p>
+    <!-- Reservado para app React Native -->
   </td>
 </tr>
+
+<!-- FILA 2 -->
+<tr>
+  <td width="50%" valign="top">
+    <!-- ProDiaba (tal cual lo tenías) -->
+  </td>
+
+  <td width="50%" valign="top">
+    <!-- Cookies Premium (tal cual lo tenías) -->
+  </td>
+</tr>
+
 </table>
 
