@@ -53,7 +53,7 @@
     <h3 align="center">Slack Clone</h3>
     <div align="center">
       <a href="https://slackapp-utn.vercel.app" target="_blank">
-        <img src="./assets/slack-clone-demo.gif" width="500" alt="Slack Clone Demo" />
+        <img src="./assets/slack-clone-gif.gif" width="500" alt="Slack Clone Demo" />
       </a><br/><br/>
       <a href="https://slackapp-utn.vercel.app" target="_blank">
         <img src="https://img.shields.io/badge/Ver%20demo-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
