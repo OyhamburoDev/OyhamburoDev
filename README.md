@@ -51,7 +51,7 @@
 <tr>
   <td width="50%" valign="top" align="center">
     <h3>App Mobile – React Native</h3>
-    <img src="./assets/mobile-app.png" width="400" alt="React Native App" />
+    <img src="./assets/mobile-app.png" width="420" alt="React Native App" />
     <br/><br/>
     <a href="https://github.com/OyhamburoDev/ProDiaba" target="_blank">
       <img src="https://img.shields.io/badge/VER%20CÓDIGO-2c3e50?style=for-the-badge&logo=github&logoColor=white" />
@@ -64,7 +64,7 @@
 
   <td width="50%" valign="top" align="center">
     <h3>Slack Clone</h3>
-    <img src="./assets/slack-clone-gif.gif" width="400" alt="Slack Clone Demo" />
+    <img src="./assets/slack-clone-gif.gif" width="420" alt="Slack Clone Demo" />
     <br/><br/>
     <a href="https://slackapp-utn.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/VER%20DEMO-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
@@ -86,7 +86,7 @@
 <tr>
   <td width="50%" valign="top" align="center">
     <h3>ProDiaba</h3>
-    <img src="./assets/readme-prodiaba.png" width="400" alt="ProDiaba App" />
+    <img src="./assets/readme-prodiaba.png" width="420" alt="ProDiaba App" />
     <br/><br/>
     <a href="https://github.com/OyhamburoDev/ProDiaba" target="_blank">
       <img src="https://img.shields.io/badge/VER%20CÓDIGO-2c3e50?style=for-the-badge&logo=github&logoColor=white" />
@@ -99,7 +99,7 @@
 
   <td width="50%" valign="top" align="center">
     <h3>Cookies Premium</h3>
-    <img src="./assets/gif-redme.gif" width="400" alt="Cookies Premium App" />
+    <img src="./assets/gif-redme.gif" width="420" alt="Cookies Premium App" />
     <br/><br/>
     <a href="https://github.com/OyhamburoDev/ProyectoFinalOyhamburo" target="_blank">
       <img src="https://img.shields.io/badge/VER%20CÓDIGO-2c3e50?style=for-the-badge&logo=github&logoColor=white" />
