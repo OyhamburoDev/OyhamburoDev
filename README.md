@@ -49,85 +49,70 @@
 
 <!-- FILA 1 -->
 <tr>
-  <!-- 1️⃣ APP MOBILE -->
-  <td width="50%" valign="top">
-    <h3 align="center">App Mobile – React Native</h3>
-    <div align="center">
-      <a href="https://github.com/OyhamburoDev/TU_REPO_MOBILE" target="_blank">
-        <img src="./assets/mobile-app.png" width="500" alt="Mobile App React Native" />
-      </a><br/><br/>
-      <a href="https://github.com/OyhamburoDev/TU_REPO_MOBILE" target="_blank">
-        <img src="https://img.shields.io/badge/Ver%20código-2c3e50?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </div>
+  <td width="50%" valign="top" align="center">
+    <h3>App Mobile – React Native</h3>
+    <img src="./assets/mobile-app.png" width="400" alt="React Native App" />
+    <br/><br/>
+    <a href="https://github.com/OyhamburoDev/ProDiaba" target="_blank">
+      <img src="https://img.shields.io/badge/VER%20CÓDIGO-2c3e50?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
     <p align="justify">
-      Aplicación móvil desarrollada con React Native + Expo.
-      Integra funcionalidades como cámara, localización y persistencia de datos.
+      Aplicación móvil desarrollada con React Native + Expo.  
+      Integra cámara, localización, persistencia de datos y manejo de estado.
     </p>
   </td>
 
-  <!-- 2️⃣ SLACK CLONE -->
-  <td width="50%" valign="top">
-    <h3 align="center">Slack Clone</h3>
-    <div align="center">
-      <a href="https://slackapp-utn.vercel.app" target="_blank">
-        <img src="./assets/slack-clone-gif.gif" width="500" alt="Slack Clone Demo" />
-      </a><br/><br/>
-      <a href="https://slackapp-utn.vercel.app" target="_blank">
-        <img src="https://img.shields.io/badge/Ver%20demo-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-      </a>
-      <a href="https://github.com/OyhamburoDev/slack-clone-frontend" target="_blank">
-        <img src="https://img.shields.io/badge/Frontend-2c3e50?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <a href="https://github.com/OyhamburoDev/slack-clone-backend" target="_blank">
-        <img src="https://img.shields.io/badge/Backend-2c3e50?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </div>
+  <td width="50%" valign="top" align="center">
+    <h3>Slack Clone</h3>
+    <img src="./assets/slack-clone-gif.gif" width="400" alt="Slack Clone Demo" />
+    <br/><br/>
+    <a href="https://slackapp-utn.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/VER%20DEMO-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+    </a>
+    <a href="https://github.com/OyhamburoDev/slack-clone-frontend" target="_blank">
+      <img src="https://img.shields.io/badge/FRONTEND-2c3e50?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://github.com/OyhamburoDev/slack-clone-backend" target="_blank">
+      <img src="https://img.shields.io/badge/BACKEND-2c3e50?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
     <p align="justify">
-      Aplicación web full-stack tipo Slack con mensajería en tiempo real usando WebSockets,
-      gestión de workspaces, canales y permisos.
+      Aplicación web full-stack tipo Slack con mensajería en tiempo real usando WebSockets.
+      Gestión de workspaces, canales, permisos, búsqueda global y editor enriquecido.
     </p>
   </td>
 </tr>
 
 <!-- FILA 2 -->
 <tr>
-  <!-- 3️⃣ PRODIABA -->
-  <td width="50%" valign="top">
-    <h3 align="center">ProDiaba</h3>
-    <div align="center">
-      <a href="https://github.com/OyhamburoDev/ProDiaba" target="_blank">
-        <img src="./assets/readme-prodiaba.png" width="500" alt="ProDiaba App" />
-      </a><br/><br/>
-      <a href="https://github.com/OyhamburoDev/ProDiaba" target="_blank">
-        <img src="https://img.shields.io/badge/Ver%20código-2c3e50?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </div>
+  <td width="50%" valign="top" align="center">
+    <h3>ProDiaba</h3>
+    <img src="./assets/readme-prodiaba.png" width="400" alt="ProDiaba App" />
+    <br/><br/>
+    <a href="https://github.com/OyhamburoDev/ProDiaba" target="_blank">
+      <img src="https://img.shields.io/badge/VER%20CÓDIGO-2c3e50?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
     <p align="justify">
-      Aplicación móvil para el seguimiento de niveles de glucemia,
-      desarrollada con React Native + Expo.
+      Aplicación móvil para el seguimiento de niveles de glucemia.
+      Registro de valores, historial por fechas y perfil personalizado.
     </p>
   </td>
 
-  <!-- 4️⃣ COOKIES -->
-  <td width="50%" valign="top">
-    <h3 align="center">Cookies Premium</h3>
-    <div align="center">
-      <a href="https://cookies-premium.vercel.app/" target="_blank">
-        <img src="./assets/gif-redme.gif" width="500" alt="Cookies Premium App" />
-      </a><br/><br/>
-      <a href="https://github.com/OyhamburoDev/ProyectoFinalOyhamburo" target="_blank">
-        <img src="https://img.shields.io/badge/Ver%20código-2c3e50?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </div>
+  <td width="50%" valign="top" align="center">
+    <h3>Cookies Premium</h3>
+    <img src="./assets/gif-redme.gif" width="400" alt="Cookies Premium App" />
+    <br/><br/>
+    <a href="https://github.com/OyhamburoDev/ProyectoFinalOyhamburo" target="_blank">
+      <img src="https://img.shields.io/badge/VER%20CÓDIGO-2c3e50?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
     <p align="justify">
       E-commerce desarrollado con React y Firebase.
-      Incluye autenticación, carrito y órdenes de compra.
+      Autenticación, carrito de compras y órdenes persistidas en Firestore.
     </p>
   </td>
 </tr>
 
 </table>
+
 
 
 
