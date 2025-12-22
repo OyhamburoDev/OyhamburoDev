@@ -51,7 +51,7 @@
 <tr>
   <td width="50%" valign="top" align="center">
     <h3>App Mobile – React Native</h3>
-    <img src="./assets/mobile-app.png" width="420" alt="React Native App" />
+    <img src="./assets/gif-refugio.gif" width="420" alt="React Native App" />
     <br/><br/>
     <a href="https://github.com/OyhamburoDev/ProDiaba" target="_blank">
       <img src="https://img.shields.io/badge/VER%20CÓDIGO-2c3e50?style=for-the-badge&logo=github&logoColor=white" />
