@@ -47,30 +47,31 @@
 
 <table width="100%">
 
-<!-- FILA 1 - APP MOBILE (REACT NATIVE) -->
+<!-- FILA 1 -->
 <tr>
-  <td width="100%" valign="top">
-    <h3 align="center">📱 App Mobile – React Native</h3>
+  <!-- 1️⃣ APP MOBILE -->
+  <td width="50%" valign="top">
+    <h3 align="center">App Mobile – React Native</h3>
     <div align="center">
-      <img src="./assets/mobile-app.png" width="400" alt="Mobile App React Native" /><br/><br/>
+      <a href="https://github.com/OyhamburoDev/TU_REPO_MOBILE" target="_blank">
+        <img src="./assets/mobile-app.png" width="500" alt="Mobile App React Native" />
+      </a><br/><br/>
       <a href="https://github.com/OyhamburoDev/TU_REPO_MOBILE" target="_blank">
         <img src="https://img.shields.io/badge/Ver%20código-2c3e50?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </div>
     <p align="justify">
       Aplicación móvil desarrollada con React Native + Expo.
-      Integra cámara, localización, almacenamiento local y backend remoto.
+      Integra funcionalidades como cámara, localización y persistencia de datos.
     </p>
   </td>
-</tr>
 
-<!-- FILA 2 - SLACK CLONE -->
-<tr>
-  <td width="100%" valign="top">
+  <!-- 2️⃣ SLACK CLONE -->
+  <td width="50%" valign="top">
     <h3 align="center">Slack Clone</h3>
     <div align="center">
       <a href="https://slackapp-utn.vercel.app" target="_blank">
-        <img src="./assets/slack-clone-gif.gif" width="600" alt="Slack Clone Demo" />
+        <img src="./assets/slack-clone-gif.gif" width="500" alt="Slack Clone Demo" />
       </a><br/><br/>
       <a href="https://slackapp-utn.vercel.app" target="_blank">
         <img src="https://img.shields.io/badge/Ver%20demo-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
@@ -83,49 +84,51 @@
       </a>
     </div>
     <p align="justify">
-      Aplicación web full-stack tipo Slack con mensajería en tiempo real usando WebSockets (Socket.io),
-      gestión de workspaces, canales, roles y permisos.
-      Incluye editor de texto enriquecido, búsqueda global y arquitectura escalable.
+      Aplicación web full-stack tipo Slack con mensajería en tiempo real usando WebSockets,
+      gestión de workspaces, canales y permisos.
     </p>
   </td>
 </tr>
 
-<!-- FILA 3 - PRODIABA + COOKIES -->
+<!-- FILA 2 -->
 <tr>
+  <!-- 3️⃣ PRODIABA -->
   <td width="50%" valign="top">
     <h3 align="center">ProDiaba</h3>
     <div align="center">
       <a href="https://github.com/OyhamburoDev/ProDiaba" target="_blank">
-        <img src="./assets/readme-prodiaba.png" width="450" alt="ProDiaba App" />
+        <img src="./assets/readme-prodiaba.png" width="500" alt="ProDiaba App" />
       </a><br/><br/>
       <a href="https://github.com/OyhamburoDev/ProDiaba" target="_blank">
         <img src="https://img.shields.io/badge/Ver%20código-2c3e50?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </div>
     <p align="justify">
-      Aplicación móvil desarrollada con React Native + Expo para el seguimiento de niveles de glucemia.
-      Permite registrar valores, comentarios, historial por fechas y perfil personalizado.
+      Aplicación móvil para el seguimiento de niveles de glucemia,
+      desarrollada con React Native + Expo.
     </p>
   </td>
 
+  <!-- 4️⃣ COOKIES -->
   <td width="50%" valign="top">
     <h3 align="center">Cookies Premium</h3>
     <div align="center">
       <a href="https://cookies-premium.vercel.app/" target="_blank">
-        <img src="./assets/gif-redme.gif" width="450" alt="Cookies Premium App" />
+        <img src="./assets/gif-redme.gif" width="500" alt="Cookies Premium App" />
       </a><br/><br/>
       <a href="https://github.com/OyhamburoDev/ProyectoFinalOyhamburo" target="_blank">
         <img src="https://img.shields.io/badge/Ver%20código-2c3e50?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </div>
     <p align="justify">
-      E-commerce de galletas premium desarrollado con React.js y Firebase.
-      Incluye autenticación, carrito de compras, órdenes en Firestore y UI con Material UI.
+      E-commerce desarrollado con React y Firebase.
+      Incluye autenticación, carrito y órdenes de compra.
     </p>
   </td>
 </tr>
 
 </table>
+
 
 
 </table>
