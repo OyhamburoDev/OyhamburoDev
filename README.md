@@ -101,7 +101,7 @@
     <h3>Cookies Premium</h3>
     <img src="./assets/gif-redme.gif" width="400" alt="Cookies Premium App" />
     <br/><br/>
-    <a href="https://slackapp-utn.vercel.app" target="_blank">
+    <a href="https://cookies-premium.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/VER%20DEMO-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
     </a>
     <a href="https://github.com/OyhamburoDev/ProyectoFinalOyhamburo" target="_blank">
