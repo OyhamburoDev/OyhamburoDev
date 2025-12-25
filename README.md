@@ -50,15 +50,18 @@
 <!-- FILA 1 -->
 <tr>
   <td width="50%" valign="top" align="center">
-    <h3>App Mobile – React Native</h3>
+    <h3>Refugio – Adopción de Mascotas</h3>
     <img src="./assets/gif-luna.gif" width="400" alt="React Native App" />
     <br/><br/>
+    <a href="TU_LINK_PLAY_STORE" target="_blank">
+  <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+</a>
     <a href="https://github.com/OyhamburoDev/ProDiaba" target="_blank">
       <img src="https://img.shields.io/badge/VER%20CÓDIGO-2c3e50?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     <p align="justify">
-      Aplicación móvil desarrollada con React Native + Expo.  
-      Integra cámara, localización, persistencia de datos y manejo de estado.
+     Aplicación móvil desarrollada con React Native + Expo para conectar refugios con adoptantes. 
+Permite buscar mascotas disponibles, guardar favoritos, registrar adopciones con cámara integrada y geolocalización de refugios cercanos.
     </p>
   </td>
 
