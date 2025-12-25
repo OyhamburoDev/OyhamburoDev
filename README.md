@@ -56,7 +56,7 @@
     <a href="TU_LINK_PLAY_STORE" target="_blank">
   <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
 </a>
-    <a href="https://github.com/OyhamburoDev/ProDiaba" target="_blank">
+    <a href="https://github.com/OyhamburoDev/luna" target="_blank">
       <img src="https://img.shields.io/badge/VER%20CÓDIGO-2c3e50?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     <p align="justify">
